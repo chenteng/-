@@ -5,7 +5,7 @@
 
 
 文档截图
-<img width="236" alt="image" src="https://github.com/chenteng/-/assets/6203390/b90a049b-56f1-4f0d-a415-229c1b15a442">
+
 <img width="574" alt="image" src="https://github.com/chenteng/-/assets/6203390/69703071-dc49-4d79-98d4-a1d947bcff5e">
 <img width="599" alt="image" src="https://github.com/chenteng/-/assets/6203390/f3b0eed1-1ad0-4722-95c7-011b11d98670">
 
